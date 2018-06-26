@@ -1,0 +1,26 @@
+{
+  "name": "port2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "daily.js",
+  "scripts": {
+    "start": "http-server ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenRudnicki/jennyport.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JenRudnicki/jennyport/issues"
+  },
+  "homepage": "https://github.com/JenRudnicki/jennyport#readme"
+}
